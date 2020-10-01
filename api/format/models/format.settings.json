@@ -1,0 +1,16 @@
+{
+  "kind": "collectionType",
+  "collectionName": "formats",
+  "info": {
+    "name": "Format"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
